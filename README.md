@@ -53,8 +53,6 @@ For a detailed discussion on Information Asymmetry, Adverse Selection, and the c
 ### 📉 Empirical Evidence & Diagnostics
 
 <details>
-<summary>
-  <img src="https://img.shields.io/badge/CLICK_HERE_TO_EXPAND-REGRESSION_%26_PLOTS-FF4500?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Click to Expand">
 </summary>
 <br>
 
