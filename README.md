@@ -57,14 +57,15 @@ The following visualizations document the relationship between deficits and debt
 #### 1. Correlation Analysis: Debt vs. Deficit
 **Visualization:** The scatterplot reveals a clear positive linear relationship (Red Line), consistent with the hypothesis that firms cover deficits with debt. However, the dispersion (Blue Points) indicates significant heterogeneity in firm behavior not captured by the simple model.
 
-<img width="100%" alt="Net Debt vs Deficit Scatterplot" src="01_scatter_plot.png" />
+<img width="749" height="475" alt="image" src="https://github.com/user-attachments/assets/8e9fc4c9-773c-42f7-a4ec-7b34e44e23bd" />
+
 
 <br>
 
 #### 2. Regression Model Comparison (Univariate vs. Multivariate)
 **Evidence:** The regression table confirms that while the Deficit coefficient ($0.275^{***}$) is highly significant, other factors like **Change in Profitability** and **Tangibility** are statistically insignificant, reinforcing the prominence of the deficit in capital structure decisions.
 
-<img width="100%" alt="Regression Table" src="02_regression_table.png" />
+<img width="933" height="907" alt="image" src="https://github.com/user-attachments/assets/be68f051-216f-4338-85a8-cead2c3b6a20" />
 
 ---
 
