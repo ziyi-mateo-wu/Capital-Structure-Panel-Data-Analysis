@@ -46,7 +46,7 @@ The regression analysis produced statistically significant but nuanced results, 
 
 For a detailed discussion on Information Asymmetry, Adverse Selection, and the complete regression diagnostics, please refer to the full report.
 
-[![Read Full Report](https://img.shields.io/badge/Read%20Full%20Paper-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Pecking_Order_Theory_Report.pdf)
+[![Read Full Report](https://github.com/ziyi-mateo-wu/Capital-Structure-Panel-Data-Analysis/blob/main/project%20from%20intro%20econ/Pecking_Order_Theory_Report.pdf)
 
 ---
 
@@ -61,14 +61,16 @@ For a detailed discussion on Information Asymmetry, Adverse Selection, and the c
 #### 1. Correlation Analysis: Debt vs. Deficit
 **Visualization:** The scatterplot reveals a clear positive linear relationship, consistent with the hypothesis that firms cover deficits with debt. However, the dispersion (noise) indicates significant heterogeneity in firm behavior not captured by the simple model.
 
-<img width="100%" alt="Net Debt vs Deficit Scatterplot" src="01_scatter_plot.png" />
+<img width="1130" height="806" alt="image" src="https://github.com/user-attachments/assets/c851d98d-53dd-4d96-8696-07934e2ebed4" />
+
 
 <br>
 
 #### 2. Regression Model Comparison (Univariate vs. Multivariate)
 **Evidence:** The regression table confirms that while the Deficit coefficient ($0.275^{***}$) is highly significant, other factors like **Change in Profitability** and **Tangibility** are statistically insignificant, reinforcing the prominence of the deficit in capital structure decisions.
 
-<img width="100%" alt="Regression Table" src="02_regression_table.png" />
+<img width="933" height="907" alt="image" src="https://github.com/user-attachments/assets/c2d9e817-bfb5-4bef-802e-09e158d8e73d" />
+
 
 <br>
 </details>
